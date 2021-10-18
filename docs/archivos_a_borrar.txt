@@ -1,0 +1,3 @@
+# Archivos/ funciones del código original que fueron removidos de esta versión para evitar filtración de información sobre servicios de la Filmoteca.
+
+.env
