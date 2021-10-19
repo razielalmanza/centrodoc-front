@@ -1,9 +1,19 @@
 # Centro de Documentación - Front-end
  
 Front-end de la aplicación Centro de Documentación compuesto por una aplicación React.
+
+
+---
+**NOTA**
+
+Este repositorio es una copia de la última versión del repositorio alojado en los servidores de la Filmoteca. 
+Esta copia no cuenta con credenciales de acceso, IPs de servidores propios de la institución.
+Se anexa en el directorio _evidencias_ el registro de commits del repositorio original.
+
+---
  
 ## Comenzando 🚀
- 
+
 El front-end de la aplicación está desarrollado en TypeScript con ayuda de React.js y usando Node.Js. 
  
 El proyecto se desarrolla a lo largo del 2021 como renovación del [pasado](https://132.247.164.43/filmo/centroDocumentacion) Centro de Documentación.
