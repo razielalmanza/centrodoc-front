@@ -35,7 +35,7 @@ Herramientas necesarias para el desarrollo
 - Clonar el repositorio
 
 ```bash
-git@132.247.164.43:centrodoc/centrodoc-front.git
+git@safe-holder/centrodoc-front.git
 ```
 
 - Ejecutar el comando por primera vez instalará todas las dependencias necesarias. 
